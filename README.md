@@ -1,2 +1,2 @@
-# wordcount
+# wordcounter
 This program counts words
